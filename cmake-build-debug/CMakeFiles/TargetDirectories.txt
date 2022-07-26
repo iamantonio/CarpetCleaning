@@ -1,0 +1,3 @@
+/Users/tony/CLionProjects/CarpetCleaning/cmake-build-debug/CMakeFiles/CarpetCleaning.dir
+/Users/tony/CLionProjects/CarpetCleaning/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tony/CLionProjects/CarpetCleaning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
