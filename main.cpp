@@ -1,3 +1,7 @@
+// Simple program to calculate the costs of a carpet cleaning service
+// Created by Antonio Vargas on 7-26-2022
+
+
 #include <iostream>
 
 double cost = 0; // initializing cost to 0
