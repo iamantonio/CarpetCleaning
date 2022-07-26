@@ -1,11 +1,11 @@
 #include <iostream>
 
-double cost = 0;
-void get_cost (int numRoom, double priceRoom){
+double cost = 0; // initializing cost to 0
+void get_cost (int numRoom, double priceRoom){ // method that will calculate the number of room and calculate the costs.
     cost += numRoom * priceRoom;
 }
 
-double subtotal(double cost, double tax){
+double subtotal(double cost, double tax){ // method to calculate the taxes based on the total costs.
     return (cost * tax) + cost;
 }
 
